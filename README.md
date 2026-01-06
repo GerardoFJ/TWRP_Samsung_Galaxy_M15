@@ -61,3 +61,16 @@ Contributions are welcome. Please ensure:
 ## Support
 
 For issues or questions, this is an open source contribution repository feel free to ask or add any issue.
+
+
+
+# Android device tree for samsung SM-M156B (m15x)
+
+```
+#
+# Copyright (C) 2026 The Android Open Source Project
+# Copyright (C) 2026 SebaUbuntu's TWRP device tree generator
+#
+# SPDX-License-Identifier: Apache-2.0
+#
+```
